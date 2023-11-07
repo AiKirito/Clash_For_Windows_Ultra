@@ -7,4 +7,4 @@
 #### Name the clash core you want to replace "clash-win64.exe", then find the original file and replace it.
 &nbsp;
 ### Why can't I use the connection feature?
-#### Under the customized clash core, there are some bugs in the connection features. You can click on the search bar to solve this problem, or open the web dashboard to view
+#### Under the customized clash core, there are some bugs in the connection features. You can click on the search bar to solve this problem, or open the web dashboard to view, or use the premium version.
